@@ -1,0 +1,10 @@
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.exe.config
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.exe
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\EssentialTrainingApp.pdb
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csprojAssemblyReference.cache
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.exe
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.pdb
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\NLog.config
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\NLog.dll
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Debug\NLog.xml
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Debug\EssentialTrainingApp.csproj.CopyComplete

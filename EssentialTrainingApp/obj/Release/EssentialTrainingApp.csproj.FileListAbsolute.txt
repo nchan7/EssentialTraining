@@ -1,0 +1,9 @@
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.config
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe.config
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.pdb
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.dll
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.xml
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csproj.CopyComplete
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.exe
+C:\Users\nchan\source\repos\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.pdb
